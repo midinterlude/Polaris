@@ -52,12 +52,10 @@ I built polaris on the most important thing I could think of when I was creating
 
 ### 'Advanced' Method
 
-1.
-```bash
+1.```bash
 git clone https://github.com/midinterlude/Polaris.git
 ```
-2.
-```bash
+2.```bash
 python polaris.py
 ```
 
