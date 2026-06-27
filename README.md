@@ -31,7 +31,7 @@
 
 Most alt scripts do one thing. Polaris does everything — in the right order, automatically.
 
-I built polaris on the most important thing I could think of when I was creating it, which was transparency. Most of these other applications that do the same job but worse do it in a way where you dont know what you are running or you dont know how or why it works, that is why I made polaris, and that is why it is an open source project.
+I built Polaris around what I believe is the most important principle in this space: transparency. Most competing applications do the same job — and do it worse — while keeping you in the dark about what you're actually running, and why it works the way it does. That's exactly why I created Polaris, and why it's open source.
 
 ## Setup
 
