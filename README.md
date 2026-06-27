@@ -46,24 +46,24 @@ I built Polaris around what I believe is the most important principle in this sp
 
 ### Recommended
 
-1. Download the Executable file from [here](https://github.com/midinterlude/Polaris/releases/latest)
-2. Run the Application
+# 1. Download the Executable file from [here](https://github.com/midinterlude/Polaris/releases/latest)
+# 2. Run the Application
    (Scroll down for 3rd step)
 
 ### 'Advanced' Method
 
-#1.
+## 1.
 ```bash
 git clone https://github.com/midinterlude/Polaris.git
 ```
 
-#2.
+## 2.
 ```bash
 python polaris.py
 ```
 
 ### Configuration
-#3. Accept the UAC prompt. That's it for first launch — a setup wizard handles the rest.
+# 3. Accept the UAC prompt. That's it for first launch — a setup wizard handles the rest.
 
 ### First-run configuration
 
