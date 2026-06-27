@@ -55,6 +55,7 @@ I built Polaris around what I believe is the most important principle in this sp
 1.```bash
 git clone https://github.com/midinterlude/Polaris.git
 ```
+
 2.```bash
 python polaris.py
 ```
