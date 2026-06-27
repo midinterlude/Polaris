@@ -52,16 +52,18 @@ I built Polaris around what I believe is the most important principle in this sp
 
 ### 'Advanced' Method
 
-1.```bash
+#1.
+```bash
 git clone https://github.com/midinterlude/Polaris.git
 ```
 
-2.```bash
+#2.
+```bash
 python polaris.py
 ```
 
 ### Configuration
-3. Accept the UAC prompt. That's it for first launch — a setup wizard handles the rest.
+#3. Accept the UAC prompt. That's it for first launch — a setup wizard handles the rest.
 
 ### First-run configuration
 
