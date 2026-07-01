@@ -1,3 +1,6 @@
+# THIS PROJECT HAS BEEN ARCHIVED AND WILL NO LONGER RECIEVE ANY UPDATES!!!
+If you want a newer, better version please check out [Redemption!](https://discord.redemption.forum/)
+
 <div align="center">
 <pre>
     ▄▄▄·      ▄▄▌   ▄▄▄· ▄▄▄  ▪  .▄▄ · 
